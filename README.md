@@ -6,7 +6,7 @@ Data Scientist and Web Developer
 
 Hi, I'm Yash Arya. I really like Data Science, and I have been learning about it for a year now. I want to try it out for real by working on actual projects. I am proficient in Machine Learning, Deep Learning, and Natural Language Processing. I also know how to use Flask for deployment.I have taken part in many Machine Learning Challenges and Hackathons, which helped me get better.
 
-* 🌍  I'm based in INDIA
+* 🌍  I'm based in DELHI,INDIA 
 * ✉️  You can contact me at [yasharya.270@gmail.com](mailto:yasharya.270@gmail.com)
 * 🧠  I'm learning Natural Language Processing and LLMs.
 
@@ -14,7 +14,13 @@ Hi, I'm Yash Arya. I really like Data Science, and I have been learning about it
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+<h3>Programming Language</h3>
+  <b>C/C++,Python</b>
+  <h3> Machine Learning, Deep Learning , NLP</h3>
+  <h3>Web Development</h3>
+  <b>HTML , CSS , JS, Flask</b>
+  <h3>DataBase</h3>
+  <b>SQL, MongoDB</b>
 </p>
 
 
