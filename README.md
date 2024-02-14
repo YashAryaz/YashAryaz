@@ -44,4 +44,4 @@ Hi, I'm Yash Arya. I really like Data Science, and I have been learning about it
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/YashAryaz/BANK-NIFTY" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YashAryaz&repo=BANK-NIFTY&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/YashAryaz/super-blogZ" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YashAryaz&repo=super-bolZ&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
